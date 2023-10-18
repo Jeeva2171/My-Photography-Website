@@ -88,6 +88,7 @@ main {
     margin: 2rem 0 0;
     border-radius: 50px;
     text-decoration: none;
+    align text=center;
     color: #333;
     transition: background 500ms ease;
 }
