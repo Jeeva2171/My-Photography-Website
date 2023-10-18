@@ -9,7 +9,7 @@
 }
 
 body {
-  background-image: url("/camera-trends.jpg");
+  background-image: url("camera-trends.jpg");
   min-height: 100vh;
   width: 100%;
   background-size: cover;
