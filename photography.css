@@ -7,7 +7,7 @@ html {
 body {
     font-family: 'Roboto Condensed', sans-serif;
     margin: 0;
-    background: url("/camera-trends.jpg");
+    background: url("camera-trends.jpg");
     background-size: cover;
     height: auto;
 }
